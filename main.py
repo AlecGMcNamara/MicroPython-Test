@@ -1,4 +1,4 @@
-from machine import Pin, PWM    # type: ignore
+from machine import Pin, PWM    # type: ignore  stop missing machine module error
 from time import sleep
 
 frequency = 5000
